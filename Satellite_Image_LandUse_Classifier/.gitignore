@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dataset (do not upload)
+data/
+
+# Reports
+reports/*.pdf
+
+# Streamlit cache
+.streamlit/
+
+# VS Code settings (optional)
+.vscode/
+
+# Logs
+*.log
